@@ -5,7 +5,9 @@ Create OpenConfig-Netconf NED in NSO using Openconfig yang files and implement a
 follow the guidelines as described in the document.
 
 Some additional helping packages which are good to have are as below.. 
+
 2- Download and install Confd from Tail-f portal.
+
 3- Download and install pioneer package from https://github.com/saumya0033/pioneer 
 *there are some issues with this*.
 *Also, as per Tail-F document on 'how to work with NSO' ---- tail-f.com Whitepapers Tail-f interoperability with NSO ---------
